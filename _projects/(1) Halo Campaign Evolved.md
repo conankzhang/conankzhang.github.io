@@ -1,5 +1,5 @@
 ---
-name: Halo: Campaign Evolved
+name: Halo\: Campaign Evolved
 tools: [C++, Unreal Engine, Present]
 image: https://i.imgur.com/QqjwoEI.png
 description: I'm currently working on Halo: Campaign Evolved as Senior Gameplay Engineer!
