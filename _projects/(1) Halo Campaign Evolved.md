@@ -1,7 +1,7 @@
 ---
 name: "Halo: Campaign Evolved"
-tools: [C++, Unreal Engine, Present]
+tools: [C++, Unreal Engine, July 2026]
 image: https://i.imgur.com/QqjwoEI.png
 description: "I'm currently working at Halo Studios on Halo: Campaign Evolved as a Senior Gameplay Engineer!"
-external_url: https://youtu.be/hSjbIM0iegY
+external_url: https://youtu.be/0MxBFXH2a_U
 ---
