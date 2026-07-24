@@ -17,6 +17,7 @@ plugins:
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/blog.html
   - pages/tags.html
   - pages/404.html
   - pages/index.md
@@ -77,11 +78,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-#  - scope:
-#      path: ""
-#      type: "posts"
-#    values:
-#      comments: false                                   # Set to true to enable disqus comments
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
 
 
 ### Exclude from processing ###
