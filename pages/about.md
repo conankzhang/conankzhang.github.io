@@ -9,7 +9,7 @@ weight: 3
 
 Hi there! I'm **{{ site.author.name }}**.<br>
 
-I'm a lover of spicy food, electronic music, and music visualizers in that order. Though, you’ll probably know me better as a gameplay engineer!
+I'm a lover of spicy food, electronic music, and music visualizers in that order. Though, you’ll probably know me better as a senior gameplay engineer!
 
 My favorite video game series is Monster Hunter due to the collaborative nature of its gameplay. The communication and teamwork required to hunt a monster in a timely manner has helped me become a better teammate in real life, as I constantly aspire to learn more in order to help others.
 
